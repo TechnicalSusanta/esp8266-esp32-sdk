@@ -146,3 +146,4 @@ mySwitch.sendPushNotification("Hello SinricPro!");
 * Custom devices
 ---
 
+# ESP32SDK
